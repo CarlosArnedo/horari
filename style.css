@@ -1,0 +1,16 @@
+table{
+    border: 1px lightblue solid;
+    
+}
+.t1{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+.t2{
+    background-color: rgb(144, 177, 238);
+}
+
+td{
+    border: 1px lightblue solid ;
+}
